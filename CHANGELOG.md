@@ -35,7 +35,7 @@ Tables updated to Angular 8.
 ### Bug Fixes
 
 * **demo:** update polyfills for IE ([cf59d21](https://github.com/akveo/ng2-smart-table-suleiman/commit/cf59d21))
-* move ng2-completer to peerDependencies ([aa62510](https://github.com/akveo/ng2-smart-table-suleiman/commit/aa62510))
+* move ngx-completer to peerDependencies ([aa62510](https://github.com/akveo/ng2-smart-table-suleiman/commit/aa62510))
 
 
 
@@ -163,7 +163,7 @@ Tables updated to Angular 8.
 
 ### Bug fixes
 
-* **build:** move ng2-completer and lodash from peerDependencies to dependencies
+* **build:** move ngx-completer and lodash from peerDependencies to dependencies
 
 <a name="1.0.1"></a>
 # 1.0.1 (2017-03-29)
@@ -188,7 +188,7 @@ Tables updated to Angular 8.
 
 ### Bug fixes
 
-* **table:** ng2-completer failed with empty value ([b0e1797](https://github.com/akveo/ng2-smart-table-suleiman/commit/b0e1797e9d22ca4a076e01120525f16628e3e6a6)), closes ([#164](https://github.com/akveo/ng2-smart-table-suleiman/issues/164))
+* **table:** ngx-completer failed with empty value ([b0e1797](https://github.com/akveo/ng2-smart-table-suleiman/commit/b0e1797e9d22ca4a076e01120525f16628e3e6a6)), closes ([#164](https://github.com/akveo/ng2-smart-table-suleiman/issues/164))
 * **table:** add a check for existing filters ([8daa70f](https://github.com/akveo/ng2-smart-table-suleiman/commit/8daa70f8434cfb4036cec07dc68208a3c3c51d00)), ([#40](https://github.com/akveo/ng2-smart-table-suleiman/pull/40))
 * **table:** fix the actions column positioning ([ebfbd54](https://github.com/akveo/ng2-smart-table-suleiman/commit/ebfbd5424a227217484494fc48a5f2fb854a470d)), ([#245](https://github.com/akveo/ng2-smart-table-suleiman/pull/245))
 
