@@ -1,4 +1,4 @@
-# [1.5.0](https://github.com/akveo/ng2-smart-table-suleiman/compare/v1.4.0...v1.5.0) (2019-06-18)
+# [2.0.0](https://github.com/akveo/ng2-smart-table-suleiman/compare/v1.4.0...v2.0.0) (2019-06-18)
 
 Tables updated to Angular 8.
 
