@@ -8,7 +8,7 @@
   },
   "include": [
     "src/**/*.ts",
-    "../ng2-smart-table/src/**/*.ts"
+    "../ng2-smart-table-suleiman/src/**/*.ts"
   ],
   "exclude": [
     "src/test.ts",

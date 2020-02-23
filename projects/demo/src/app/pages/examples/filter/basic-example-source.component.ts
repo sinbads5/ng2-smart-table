@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { LocalDataSource } from 'ng2-smart-table';
+import { LocalDataSource } from 'ng2-smart-table-suleiman';
 
 @Component({
   selector: 'basic-example-source',

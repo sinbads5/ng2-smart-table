@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { ServerDataSource } from 'ng2-smart-table';
+import { ServerDataSource } from 'ng2-smart-table-suleiman';
 
 @Component({
   selector: 'advanced-example-server',
